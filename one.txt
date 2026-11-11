@@ -1,1 +1,5 @@
-one
+Today I learned how to clone a repo in VS Code.
+I learned git add, git commit and git push in the terminal.
+I learned how to remove a saved GitHub account from my computer.
+
+
